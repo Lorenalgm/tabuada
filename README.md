@@ -16,6 +16,6 @@ Ax - número da tabuada desejada pelo usuário <br>
 B - número a ser incrementado <br>
 C - resultado da expressão AX X BX = CX <br>
 Exemplo:</p></br>
-``5 x 10 = 50``<br>
-``5 x 9   = 45``<br>
-``5 x 8   = 40``<br>
+``5 x 1 = 5``<br>
+``5 x 2   = 10``<br>
+``5 x 3   = 15``<br>
